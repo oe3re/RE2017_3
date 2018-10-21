@@ -5,6 +5,7 @@ Ekvalizacija histograma slike
 Napisati program kojim se vrši ekvalizacija histograma ulazne slike.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+
 Histogram ekvalizacija predstavlja metod poboljšanja slike transformacijom intenziteta i može
 se opisati sledećim setom koraka:
 
